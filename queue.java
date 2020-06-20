@@ -92,7 +92,7 @@ class queue
     }
   }
 
-
+  // to delete from the end of queue
   public static queue pop(queue q1)
   {
       Node previous=null;
