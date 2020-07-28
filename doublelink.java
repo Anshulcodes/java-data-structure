@@ -18,6 +18,11 @@ class doublelink{
 
   static Node head;
 
+  public static void delete(int data)
+  {
+    
+  }
+  
   public static void add(int data)
   {
     Node temp= new Node(data);
