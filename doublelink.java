@@ -11,6 +11,8 @@ class doublelink{
     Node(int data)
     {
       this.data=data;
+      this.next=null;
+      this.previous=null;
     }
   }
 
