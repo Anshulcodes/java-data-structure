@@ -24,8 +24,6 @@ class doublelink{
     if(head==null)
     {
       temp.previous=head;
-      temp.next=null;
-      temp.previous=null;
       head= temp;
     }
     else{
